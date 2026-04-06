@@ -41,7 +41,23 @@ This section shows the built dashboard using **PowerBI**.
 
 # <h2 align="center">INSIGHTS AND DISCUSSIONS 🔎📝 </h2>
 
-**KEY METRICS**
-<p>
-  <img src="your-image.png" width="150" align="left" style="margin-right:10px;">
-Total Customers displays the total number of unique customers (3,636), providing insight into customer reach, while Total Sales shows the overall revenue (115,431.6), helping evaluate overall business performance. </p>
+<BR>
+
+<p align="justify">
+  <img src="Screenshot 2026-04-06 094710.png" style= "width = 90, height= 240, margin-right:15px;" align="left">
+
+  <b>KEY METRICS</b><br><br>
+  Total Customers displays the total number of unique customers (3,636), providing insight into customer reach, while Total Sales shows the overall revenue (115,431.6), helping evaluate overall business performance.
+</p>
+
+<p align="justify">
+  <img src="Screenshot 2026-04-06 094710.png" style="width:90px; height:240px; margin-right:15px;" align="left">
+  <br clear="right">
+  <sub style="float:right; width:350px; text-align:center;">
+    A line chart illustrating daily sales trends, helping identify peak and low-performing days.
+  </sub>
+
+ <h3 align="center"><b>SALES ANALYSIS</b></h3><br>
+  <b>SALES PER DAY</b><br>
+  Total Customers displays the total number of unique customers (3,636), providing insight into customer reach, while Total Sales shows the overall revenue (115,431.6), helping evaluate overall business performance.
+</p>
