@@ -38,3 +38,10 @@ This section shows the built dashboard using **PowerBI**.
 <p align="center">
 <img src="COFFEE SALES-page-001.jpg" width="500", height= "500"/>
 </p>
+
+# <h2 align="center">INSIGHTS AND DISCUSSIONS 🔎📝 </h2>
+
+**KEY METRICS**
+<p>
+  <img src="your-image.png" width="150" align="left" style="margin-right:10px;">
+Total Customers displays the total number of unique customers (3,636), providing insight into customer reach, while Total Sales shows the overall revenue (115,431.6), helping evaluate overall business performance. </p>
